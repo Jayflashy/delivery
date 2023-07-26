@@ -1,0 +1,130 @@
+ul.a {
+    list-style-type: none;
+}
+.booking-summary_block {
+    border: 1px solid #ececec;
+}
+.booking-summary_block h6 {
+    font-weight: 700;
+}
+.booking-summary_block span {
+    font-size: 14px;
+}
+
+.booking-summary-box {
+    padding: 24px;
+}
+
+.booking-summary_contact {
+    margin: 22px 0 22px;
+}
+.booking-summary_contact p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 1.8;
+}
+
+.booking-summary_deatail h5 {
+    font-weight: 600;
+}
+
+.min-height-block {
+    min-height: 500px;
+}
+
+.mintrack-height-block {
+    min-height: 250px;
+}
+
+.booking-cost {
+    margin: 20px 0 0;
+}
+.booking-cost span {
+    font-weight: 600;
+}
+.booking-cost p {
+    font-size: 15px;
+    margin: 10px 0 0;
+    line-height: 1.8;
+}
+.booking-cost p span {
+    float: right;
+}
+
+.track-cost {
+    margin: 0px 0 0;
+}
+.track-cost span {
+    font-weight: 600;
+}
+.track-cost p {
+    font-size: 15px;
+    margin: 10px 0 0;
+    line-height: 1;
+}
+.timeline {
+    position: relative;
+    padding: .5em 3em;
+    border-left: 2px solid #82b641;
+    border-top: none;
+}
+.event .event-speaker {
+    font-style: italic;
+    text-align: right;
+}
+
+.timeline .event {
+    border-bottom: 1px dashed rgba(89, 89, 89, 0.14);
+    padding-bottom: 2em;
+    margin-bottom: 0em;
+    position: relative;
+}
+
+.timeline .event:last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+}
+
+.timeline .event:after {
+    position: absolute;
+    display: block;
+}
+
+.timeline .event:after {
+    box-shadow: 0 0 0 4px #82b641;
+    left: -52.85px;
+    background: #fff;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    content: "";
+    top: 15px;
+}
+
+.button5 {
+    background-color: #C7C7C7;
+    color: black;
+    border-radius: 3px;
+    padding: 3px;
+    border: 2px solid #e7e7e7;
+}
+.button4 {
+    background-color: #EFEFEF;
+    color: black;
+    border-radius: 3px;
+    padding: 3px;
+    border: 2px solid #e7e7e7;
+}
+.button3 {
+    /* background-color: #EFEFEF;
+    color: black; */
+    width: 100%;
+    border-radius: 3px;
+    padding: 3px;
+    /* border: 1px solid #e7e7e7; */
+}
+
+.button4:hover {
+    background-color: #e7e7e7;
+}
